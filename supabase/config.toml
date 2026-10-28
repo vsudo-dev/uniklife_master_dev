@@ -1,0 +1,15 @@
+# UNIKLIFE.AI — Supabase Configuration
+# This file will be populated when the Supabase CLI is initialized
+# after Phase 1 approval.
+
+[project]
+id = ""  # Set after uniklife-dev project creation
+
+[api]
+port = 54321
+
+[db]
+port = 54322
+
+[studio]
+port = 54323
