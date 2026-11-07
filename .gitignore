@@ -17,6 +17,7 @@ build/
 
 # Supabase
 .supabase/
+supabase/.temp/
 
 # IDE
 .vscode/settings.json
@@ -37,6 +38,9 @@ yarn-error.log*
 
 # Testing
 coverage/
+
+# Build artifacts
+tsconfig.tsbuildinfo
 
 # Temporary
 tmp/
